@@ -1,0 +1,7 @@
+name: Drivers
+api-version: 1.18
+version: 1.0.0
+main: net.eltown.drivers.Drivers
+author: Justin
+description: Eltown.net Treiber
+load: STARTUP
